@@ -5,4 +5,4 @@ output hello world
 """
 
 
-print("hello world")
+print("hello world")  # 打印hello world
